@@ -5,4 +5,4 @@ Watches for `*.styl` files, compiles only `*.build.styl` files to allow you to `
 `meteor add classcraft:stylus-autoprefixer`
 
 ##Credits
-Based off of the fine work done by (wilddeer)[https://github.com/wilddeer/meteor-stylus-autoprefixer]
+Based off of the fine work done by [wilddeer](https://github.com/wilddeer/meteor-stylus-autoprefixer)
