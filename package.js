@@ -1,6 +1,6 @@
 Package.describe({
   name: 'classcraft:stylus-autoprefixer',
-  version: '0.0.2',
+  version: '0.0.3',
   summary: 'Compile stylus files and postprocess them with Autoprefixer, during Meteor\'s build process.',
   git: 'https://github.com/classcraft/meteor-stylus-autoprefixer.git',
   documentation: 'README.md'
